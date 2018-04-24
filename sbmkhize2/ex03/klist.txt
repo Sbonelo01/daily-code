@@ -1,0 +1,6 @@
+Credentials cache: API:5182
+        Principal: sbmkhize@WETHINKCODE.CO.ZA
+
+  Issued                Expires               Principal
+Apr  9 12:13:05 2018  Apr  9 22:13:05 2018  krbtgt/WETHINKCODE.CO.ZA@WETHINKCODE.CO.ZA
+Apr  9 15:33:23 2018  Apr  9 22:13:05 2018  ldap/ldap.wethinkcode.co.za@WETHINKCODE.CO.ZA
