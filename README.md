@@ -1,2 +1,3 @@
 # daily-code
-A couple of codes for 26 days
+
+26 days of coding in C
