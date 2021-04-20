@@ -1,3 +1,3 @@
 # Daily Code
 
-26 days of coding in C
+26 days of coding in `C`
